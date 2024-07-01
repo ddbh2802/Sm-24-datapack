@@ -1,0 +1,26 @@
+{
+  "region": "South America",
+  "leagues": [
+    {
+      "country": "Brazil",
+      "divisions": [
+        {
+          "name": "Serie A",
+          "teams": ["Team A", "Team B", "Team C", "..."]
+        },
+        {
+          "name": "Serie B",
+          "teams": ["Santa Cruz", "Team E", "Team F", "..."]
+        },
+        {
+          "name": "Serie C",
+          "teams": ["Team G", "Team H", "..."]
+        },
+        {
+          "name": "Serie D",
+          "teams": ["Team I", "Team J", "..."]
+        }
+      ]
+    }
+  ]
+}
